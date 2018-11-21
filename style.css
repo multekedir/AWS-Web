@@ -19,14 +19,20 @@ main{
 	margin: auto;
   width: 50%;
 }
-.wrapper{
-	background-color:#f5f5f5;
-	border: 5px solid #ffffff;
-	border-radius: 20px;
-	padding: 20px 20px 20px 20px;
-	margin: auto;
-	margin-top: 70px;	
-	width: 750px;
+wrapper {
+
+    background-color: #f5f5f5;
+    border: 5px solid #ffffff;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 70px;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
 }
 
 footer {

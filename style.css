@@ -19,7 +19,7 @@ main{
 	margin: auto;
   width: 50%;
 }
-wrapper {
+.wrapper {
 
     background-color: #f5f5f5;
     border: 5px solid #ffffff;
